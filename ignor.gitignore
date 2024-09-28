@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS system directories
+Library/
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
+.Trash/
+
+# Node or Python environment files (if applicable)
+node_modules/
+venv/
